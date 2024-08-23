@@ -1,7 +1,7 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Code For NPO
+email:              code4npo@gmail.com
+description:        NPOを支援するCode For活動
+author:             Code For NPO
 baseurl:            "/"
 url:                "https://codefornpo.github.io"
 
