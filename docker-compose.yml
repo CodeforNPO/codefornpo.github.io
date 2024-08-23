@@ -1,0 +1,11 @@
+version: '1.2'
+
+services:
+  jekyll:
+    build: .
+    volumes:
+      - type: bind
+        source: ./
+        target: /src
+    ports:
+      - '4000:4000'
