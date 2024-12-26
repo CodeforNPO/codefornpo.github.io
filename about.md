@@ -5,15 +5,37 @@ background: '/img/bg-about.jpg'
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="page-content">
+  <h1>Code for NPOについて</h1>
+  <p>
+    <strong>Code for NPO</strong>は、2023年1月にCode for Japanの「STO創出プロジェクト」の参加メンバーを中心に立ち上げられたブリゲードです。
+    このプロジェクトは、NPOの経営を支えるIT人材（STO）を創出することを目的としており、その志を引き継ぎ、
+    NPOとIT・デジタル人材をつなぐプラットフォームを目指しています。
+  </p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  <h2>私たちのビジョン</h2>
+  <p>
+    Code for NPOでは、草の根の支援を大切にしています。「どんな些細なことでも相談できる場を作りたい」という想いから、
+    NPOが抱えるITやデジタルの課題に対して気軽に相談できる環境を提供しています。さらに、「支援を受けた人が次は支援する側になる」という
+    循環型の社会課題解決を目指し、みんなが参加できる社会を築いていきます。
+  </p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  <h2>活動内容</h2>
+  <p>
+    Code for NPOでは、具体的なNPO支援に加え、以下のようなイベントや活動を定期的に行っています：
+  </p>
+  <ul>
+    <li>
+      <strong>NPO向けのITお悩み相談会</strong><br>
+      ITに関する課題や困りごとを気軽に相談できる場を提供しています。
+    </li>
+    <li>
+      <strong>IT・デジタル人材のための社会課題勉強会</strong><br>
+      社会課題について理解を深め、ITの力で解決策を考える場を提供しています。
+    </li>
+  </ul>
+  <p>
+    私たちは、ITやデジタルの力を活用して、社会課題の解決に取り組む仲間を募集しています。
+    ぜひ、Code for NPOの活動にご参加ください！
+  </p>
+</div>
